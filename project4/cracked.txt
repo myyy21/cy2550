@@ -6,6 +6,7 @@ sanbenect:monkey
 twistwalkea:12345
 teeratec:peanut
 baseinstant:boomer
+cutezee:mynoob
 breakingum:pass
 thetinny:tigger
 flightgo:12345678
@@ -22,5 +23,6 @@ akumillne:eagles
 milknomain:password
 baignolje:computer
 forbonatum:mercedes
+lukendlewo:larger
 chiricsen:angel21
 crayonfour:280773
